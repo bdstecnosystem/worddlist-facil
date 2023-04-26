@@ -5,7 +5,7 @@ sudo apt install crunch -y
 clear
    echo "WORDLIST COM LETRAS (M,m) ,NÚMEROS ,E SIMBÓLOS"
 sleep 3
-figlet -f "DOS Rebel" BDS.WL
+figlet -f 3d BDS.WL
 sleep 5
    echo -n "digite a quantidade minima :"
     read -r minima
